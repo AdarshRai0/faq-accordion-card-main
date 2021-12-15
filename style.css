@@ -75,7 +75,7 @@ body {
 }
 .title__accordion {
   font-size: 3rem;
-  margin-top: 0px;
+  margin-top: -20px;
 }
 
 .title__question {
